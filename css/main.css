@@ -1,0 +1,135 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+h1, h2, { font-family: 'Montserrat', sans-serif; }
+
+h3 { color: #fff; text-transform: uppercase; font-size: 1em;}
+
+.carousel-control {
+	border: none;
+	background: none;
+	opacity: 1;
+	font-size: 70px;
+}
+
+.jeeps {
+	position: absolute;
+	top: 37.1%;
+	left: 4.5%;
+	width: 91%;
+}
+
+body {
+	background-color: #000;
+}
+
+.nav a:hover {
+	background-color: #111;
+	border-top: 4px solid #ffb302;
+}
+
+.nav .active a {
+	background-color: #111;
+	border-top: 4px solid #ffb302;
+}
+
+.tag {
+	position: absolute;
+	right: 15%;
+
+}
+
+.feature-row {
+	margin-bottom: 30px;
+}
+
+.infobox {
+	background-color: #fff;
+	text-align: center;
+	padding: 80px 20px;
+	color: #ccc;
+}
+
+.navbar-inner {
+  min-height: 60px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.navbar .nav {
+	top: 9px;
+}
+
+.navbar .brand {
+	padding: 16px 20px 10px;
+	margin-left: 130px;
+	font-size: 35px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.footer-items {
+	list-style-type: none;
+
+}
+
+.footer-items a {
+	color: #999;
+	text-decoration: none;
+	
+}
+
+.footer-items a:hover {
+	color: #fff;
+}
+
+footer {
+	border-top: 1px solid #444;
+}
+
+footer p {
+	color: #555555;
+}
+
+.gradient-bg-foot {
+   background-color: #222; 
+   background-image: url(images/fallback-gradient.png); 
+   background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#222), to(#111));
+   background-image: -webkit-linear-gradient(top, #222, #111); 
+   background-image:    -moz-linear-gradient(top, #222, #111);
+   background-image:     -ms-linear-gradient(top, #222, #111);
+   background-image:      -o-linear-gradient(top, #222, #111);
+}
+
+.gradient-bg {
+   background-color: #292929; 
+   background-image: url(images/fallback-gradient.png); 
+   background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#333), to(#000));
+   background-image: -webkit-linear-gradient(top, #333, #000); 
+   background-image:    -moz-linear-gradient(top, #333, #000);
+   background-image:     -ms-linear-gradient(top, #333, #000);
+   background-image:      -o-linear-gradient(top, #333, #000);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
